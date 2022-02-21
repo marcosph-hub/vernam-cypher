@@ -28,7 +28,7 @@ int main() {
     cout << store_msg[string_iterator] << " ";
   }
   cout << endl;
-  binary_message = decTobin(store_msg);
+
 
   /*
   int a,b,c,d,e;
