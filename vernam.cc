@@ -190,7 +190,7 @@ int main (void){
     std::cout << "\n\nIntroduzca la opción que desee realizar: " << std::endl;
     std::cout << "[1] - Cifrar" << std::endl;
     std::cout << "[2] - Descifrar" << std::endl;
-    std::cout << "En caso de querer salir, pulse cualquier otro número" << std::endl;
+    std::cout << "[0] - En caso de querer salir" << std::endl;
     std::cin >> x;
 
     
